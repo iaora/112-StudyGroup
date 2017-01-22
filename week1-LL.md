@@ -3,14 +3,27 @@
 We will be going over some Big-O review and introduce the various Linked List methods (insert, delete, search) and the different types of Linked List (single, double, circular).
 
 #Questions for the week
+Weekly problems. We may not get through everything.. but we'll definitely try!
 
-1. Write code to remove duplicates from an unsorted linked list (without using extra data structures).
+######Single Linked Lists
 
-2. Implement an algorithm to find the kth to last element of a single Linked List.
+1. Show how to insert, delete, and search in a single linked list.
 
-3. Implement an algorithm to check if a double linked list is a palindrome.
+2. Write code to remove duplicates from an unsorted linked list (without using extra data structures).
 
-4. Given a circular linked list, implement an algorithm which returns node at the beginning
+3. Implement an algorithm to find the kth to last element of a single Linked List.
+
+######Double Linked Lists
+
+1. Show how to insert, delete, and search in a single linked list.
+
+2. Implement an algorithm to check if a double linked list is a palindrome.
+
+######Circular Linked Lists
+
+1. Show how to insert, delete, and search in a single linked list.
+
+2. Given a circular linked list, implement an algorithm which returns node at the beginning
 of the loop.
 
 
