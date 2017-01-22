@@ -1,9 +1,9 @@
-Welcome to 112 study group!
+Welcome to 112 study group! :+1:
 
 Feel free to add/message me on Facebook(www(.)facebook(.)com/jamiee.liao) or email me at j.liao5079 @gmail.com with any questions about the course, future courses, or anything in general :)
 
 #Creating a Linked List
-
+```java
 public class Node {
   Node next = null;
   int data;
@@ -20,8 +20,10 @@ public class Node {
     n.next = end;
   }
 }
+```
 
 #Deleting from single Linked List
+```java
   Node deleteNode(Node head, int d) {
     Node n = head;
     if (n.data == d) {
@@ -35,3 +37,4 @@ public class Node {
       n = n.next;
     }
   }
+```
