@@ -15,13 +15,13 @@ Weekly problems. We may not get through everything.. but we'll definitely try!
 
 ######Double Linked Lists
 
-1. Show how to insert, delete, and search in a single linked list.
+1. Show how to insert, delete, and search in a double linked list.
 
 2. Implement an algorithm to check if a double linked list is a palindrome.
 
 ######Circular Linked Lists
 
-1. Show how to insert, delete, and search in a single linked list.
+1. Show how to insert, delete, and search in a circular linked list.
 
 2. Given a circular linked list, implement an algorithm which returns node at the beginning
 of the loop.
