@@ -29,9 +29,9 @@ Example 2:
 
   What is the run time for Example 1 vs Example 2?
 
-  If your algorithm is in the form "do this, then, when you're all done, do that" then you add the runtimes.
-
-  If your algorithm is in the form "do this for each time you do that" then you multiply the runtimes.
+Note:
+  - If your algorithm is in the form "do this, then, when you're all done, do that" then you add the runtimes.
+  - If your algorithm is in the form "do this for each time you do that" then you multiply the runtimes.
 
 ###Time Complexity vs Space Complexity
 How much time does it take to complete this task? This is typically what you've encoutered as "Big-O".
